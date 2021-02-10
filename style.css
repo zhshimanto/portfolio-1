@@ -12,6 +12,8 @@ html{
 }
 
 /* custom scroll bar */
+
+
 ::-webkit-scrollbar {
     width: 10px;
 }
@@ -27,8 +29,6 @@ html{
 }
 
 /* all similar content styling codes */
-
-
 
 section{
     padding: 100px 0;
@@ -146,6 +146,8 @@ ul.header-social li a {
 }
 
 /* home section styling */
+
+
 .home{
     display: flex;
     background: url("images/banner.png") no-repeat center;
